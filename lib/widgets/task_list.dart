@@ -15,7 +15,6 @@ class TaskList extends StatefulWidget {
 List<Task> tasks = [
   Task(name: 'Task 1'),
   Task(name: 'Task 2'),
-  Task(name: 'Task 3'),
 ];
 
 class _TaskListState extends State<TaskList> {
